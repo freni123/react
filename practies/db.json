@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "productName": "shita",
+      "price": "ssss",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
